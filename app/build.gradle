@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.coroutinetest'
+    namespace 'com.example.composeflowdemo'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.coroutinetest"
+        applicationId "com.example.composeflowdemo"
         minSdk 24
         targetSdk 33
         versionCode 1
