@@ -1,4 +1,4 @@
-package com.example.coroutinetest
+package com.example.composeflowdemo
 
 import android.os.Bundle
 import android.util.Log
@@ -14,7 +14,7 @@ import androidx.compose.ui.Modifier
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
-import com.example.coroutinetest.ui.theme.CoroutineTestTheme
+import com.example.composeflowdemo.ui.theme.CoroutineTestTheme
 import kotlinx.coroutines.flow.collectLatest
 import kotlinx.coroutines.launch
 

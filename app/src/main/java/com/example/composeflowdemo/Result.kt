@@ -1,4 +1,4 @@
-package com.example.coroutinetest
+package com.example.composeflowdemo
 
 sealed class Result<out R> {
     data class Success<out T>(val data: T) : Result<T>()

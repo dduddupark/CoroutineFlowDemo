@@ -1,4 +1,4 @@
-package com.example.coroutinetest.ui.theme
+package com.example.composeflowdemo.ui.theme
 
 import android.app.Activity
 import android.os.Build

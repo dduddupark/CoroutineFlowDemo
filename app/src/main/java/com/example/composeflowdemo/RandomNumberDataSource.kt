@@ -1,4 +1,4 @@
-package com.example.coroutinetest
+package com.example.composeflowdemo
 
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.flow
